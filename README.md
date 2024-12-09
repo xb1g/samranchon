@@ -1,14 +1,19 @@
 # samranchon
 jack: bar -> Hotel's Breakfast -> Craft food + Coffee + Bar
-lin: Craft food, less bar
+
+lin: Craft food, less 
+
 oh: +P Jack, Hotel => Breakfast, homemade, craft, selected.
+
 tang: Breakfast, Restaurant or Bar?
 
 Current Problem: Who are we? Restaurant + Bar
 
 ## Concept
 jack: Easy to come, access, not reserved
+
 lin: follow
+
 oh: Follow + Craft + Try new menu + Communication
 
 oh: mocktail/ cocktail from our menu, kombucha, crafted drinks
@@ -18,8 +23,11 @@ Voting -> Goal
 Smart Goals
 
 S: Foreigners, always have passerby, Near Hotel, craft skills,
+
 W: Backend, undefined value, communication, small kitchen
+
 O: delivery, tech, live music, area being developed, Partners: community chumchon nanglerng, tour company, sunthonphu: food in the literature, writers community, pasport book shop, cool area with foreigners, evengs
+
 T: Free Food Kiosks, Fighting/Contrasting Events, fighting with hotels/ nearby shops
 
 ### Brand Book
